@@ -1,4 +1,4 @@
-# Task Launcher
+# JS Task Launcher
 
 Two JavaScript programs created as part of a software development course, connected via a single page:
 
